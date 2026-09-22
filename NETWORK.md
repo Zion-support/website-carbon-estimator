@@ -1,15 +1,17 @@
-# 📐 Zion App Network — Interlinks
+# Website Carbon Estimator — Zion App Network
 
-**website-carbon-estimator** is part of the Zion Tech Group app network (630+ apps).
+Estimate CO2 emissions per page view with green hosting recommendations. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-- 🗃️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+- 🔗 Live app: [https://ziontechgroup.com/website-carbon-estimator/](https://ziontechgroup.com/website-carbon-estimator/)
+- 🏠 Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
 
-## Related apps
-- [green-cloud-picker](https://github.com/Zion-support/green-cloud-picker) — carbon-aware region advisor
-- [zion-ai-green-scheduler](https://github.com/Zion-support/zion-ai-green-scheduler) — low-carbon batch scheduling
-- [ai-carbon-tracker](https://github.com/Zion-support/ai-carbon-tracker) — carbon tracking
-- [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator) — cloud cost estimation
+## Related apps in the network
 
----
-📐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+- [Zion AI Capacity Forecaster](https://github.com/Zion-support/zion-ai-capacity-forecaster) — predictive infrastructure scaling from traffic seasonality
+- [Zion AI Cloud Cost Navigator](https://github.com/Zion-support/zion-ai-cloud-cost-navigator) — cloud cost navigation and savings
+- [Green Cloud Picker](https://github.com/Zion-support/green-cloud-picker) — carbon-aware cloud region advisor
+- [Zion AI Green Scheduler](https://github.com/Zion-support/zion-ai-green-scheduler) — shift batch workloads to low-carbon windows
+- [FinOps Spend Analyzer](https://github.com/Zion-support/finops-spend-analyzer) — cloud cost breakdown and waste detection
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
