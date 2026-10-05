@@ -1,22 +1,13 @@
-# 🌐 Part of the Zion AI App Network
+# Part of the Zion AI App Network
 
-This app is part of the **Zion AI App Network** — 800+ free, open-source AI apps and tools by [Zion Tech Group](https://ziontechgroup.com).
+This app is a member of the Zion AI App Network — 360+ interlinked AI micro-apps by Zion Tech Group.
 
-## 🔗 Network Links
-- **Network hub (live):** https://ziontechgroup.com/zion-app-network/
-- **GitHub hub:** https://github.com/Zion-support/zion-app-network
-- **Apps index:** https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
-- **Catalog:** https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+## Explore the network
+- Network hub: https://zion-support.github.io/zion-network/
+- Full apps showcase: https://ziontechgroup.com/apps/network.html
+- Free AI Discovery (instant app recommendations, results emailed to you): https://ziontechgroup.com/discovery/
+- Discovery benefits: https://ziontechgroup.com/apps/discovery-benefits.html
+- Plans & pricing: https://ziontechgroup.com/en/plans/
+- Main site: https://ziontechgroup.com
 
-## 🔎 Free AI Discovery (always online, always free)
-Not sure which apps fit your stack? Take the **free 2-minute AI Discovery questionnaire** — personalized picks emailed instantly to you and our commercial team:
-- https://ziontechgroup.com/discovery/ (PT-BR)
-- https://ziontechgroup.com/app-network-discovery.html (EN)
-
-## 🧩 Related apps
-- https://ziontechgroup.com/water-usage-optimizer/
-- https://ziontechgroup.com/renewable-roi-calculator/
-- https://ziontechgroup.com/zion-app-network/
-
----
-© Zion Tech Group · commercial@ziontechgroup.com
+Contact: commercial@ziontechgroup.com
