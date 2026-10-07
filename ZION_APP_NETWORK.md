@@ -1,17 +1,16 @@
-# 🌐 Zion AI App Network
+# Zion AI App Network — Interlinks
 
-This app is part of the **Zion AI App Network** — 850+ interlinked AI apps by Zion Tech Group.
+This app is part of the **Zion AI App Network**: 300+ free, open-source, interlinked AI tools maintained by Zion Tech Group.
 
-## 🔗 Network links
-- Network hub: https://ziontechgroup.com/zion-app-network/
-- Latest updates: https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md
-- **Free Discovery (2 min, always free):** https://ziontechgroup.com/discovery/
+- 🏠 Homepage: https://ziontechgroup.com
+- 🧭 Apps catalog: https://ziontechgroup.com/apps/
+- 🗺️ Network map: https://ziontechgroup.com/apps/network.html
+- 🌐 Network hub: https://ziontechgroup.com/zion-app-network/
+- 📚 Content hub (guides & spotlights): https://ziontechgroup.com/apps/content-hub.html
+- 🆓 Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
+- 💼 GitHub org: https://github.com/Zion-support
+- ✉️ Commercial: commercial@ziontechgroup.com
 
-## 🎓 Batch 93 — Education & Green Tech AI
-- [Student Progress Radar](https://github.com/Zion-support/student-progress-radar) — https://ziontechgroup.com/student-progress-radar/
-- [Tutoring Copilot AI](https://github.com/Zion-support/tutoring-copilot-ai) — https://ziontechgroup.com/tutoring-copilot-ai/
-- Website Carbon Estimator (this repo)
-- [Water Usage Optimizer](https://github.com/Zion-support/water-usage-optimizer) — https://ziontechgroup.com/water-usage-optimizer/
-- Showcase: https://ziontechgroup.com/zion-app-network/app/network-batch93-showcase.html
+**Free Discovery benefits:** answer ~6 questions, get an instant on-screen report with matched apps plus an email copy to you and commercial@ziontechgroup.com the moment you submit. No signup, no card, always free.
 
-Contact: commercial@ziontechgroup.com · https://ziontechgroup.com
+**Latest batches:** Batch 85 HR & People AI · Batch 84 Nonprofit & Social Impact AI · Batch 83 Insurance & Risk AI · Batch 82 Telecom & Connectivity AI — https://ziontechgroup.com/apps/
