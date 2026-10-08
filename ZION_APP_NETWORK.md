@@ -1,16 +1,17 @@
-# Zion AI App Network — Interlinks
+# 🌐 Zion AI App Network — Interlinks
 
-This app is part of the **Zion AI App Network**: 300+ free, open-source, interlinked AI tools maintained by Zion Tech Group.
+**Website Carbon Estimator** is part of the **Zion AI App Network** (870+ free, open, interlinked AI apps).
 
+## 🔗 Core links
 - 🏠 Homepage: https://ziontechgroup.com
-- 🧭 Apps catalog: https://ziontechgroup.com/apps/
-- 🗺️ Network map: https://ziontechgroup.com/apps/network.html
-- 🌐 Network hub: https://ziontechgroup.com/zion-app-network/
-- 📚 Content hub (guides & spotlights): https://ziontechgroup.com/apps/content-hub.html
-- 🆓 Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
-- 💼 GitHub org: https://github.com/Zion-support
-- ✉️ Commercial: commercial@ziontechgroup.com
+- 🧭 App Network hub: https://ziontechgroup.com/zion-app-network/ · https://github.com/Zion-support/zion-app-network
+- 🗺️ Network constellation: https://github.com/Zion-support/zion-network
+- ✨ **Free AI Discovery (always online, always free):** https://ziontechgroup.com/discovery/ — tailored app shortlist, ROI snapshot and pilot roadmap emailed instantly to you and to commercial@ziontechgroup.com
+- 📩 Commercial: commercial@ziontechgroup.com
 
-**Free Discovery benefits:** answer ~6 questions, get an instant on-screen report with matched apps plus an email copy to you and commercial@ziontechgroup.com the moment you submit. No signup, no card, always free.
+## Related apps
+- [Water Usage Optimizer](https://github.com/Zion-support/water-usage-optimizer)
+- [Energy Load Shifter](https://ziontechgroup.com/energy-load-shifter/)
+- [Synthetic Data Lab](https://ziontechgroup.com/synthetic-data-lab/)
 
-**Latest batches:** Batch 85 HR & People AI · Batch 84 Nonprofit & Social Impact AI · Batch 83 Insurance & Risk AI · Batch 82 Telecom & Connectivity AI — https://ziontechgroup.com/apps/
+© 2026 Zion Tech Group
